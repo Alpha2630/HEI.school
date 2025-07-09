@@ -1,20 +1,12 @@
-// import Nabar from "./components/Navbar";
-// import Footer from "./components/Footer";
-import { useState } from "react";
-import './App.css'
-// props parent  makan am enfants 
+import React from "react";
+import Apropos from "./components/Apropos";
+
 function App() {
-  const [count, setCount] = useState(0);
-  const handleDecrement = () => {
-    return setCount ((prev) => )
-  }
   return (
-    <>
-      <button onClick={handleDecrement}>-</button>
-      <h1> {count} </h1>
-      <button onClick={handleDecrement}>+</button>
-    </>
-  )
+    <div>
+      <Apropos />
+     </div>
+  );
 }
 
-export default App
+export default App;
