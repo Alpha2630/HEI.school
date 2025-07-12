@@ -14,7 +14,7 @@
                     <div>
                       <div className="flex flex-col text-center mt-7 bg-gray-300 p-10">
                          <h1 className="text-[#001948] text-3xl font-bold">Les technos et langages utilisées</h1>
-                         <p className="text-[#001948]">Nos étudiants sont formés à l’utilisation et à la maîtrise des langages de programmation Java et JavaScript. Ces deux langages occupent <br />
+                         <p className="text-[#001948] text-[14px]">Nos étudiants sont formés à l’utilisation et à la maîtrise des langages de programmation Java et JavaScript. Ces deux langages occupent <br />
                          une place de choix dans le domaine du développement logiciel et du web, offrant une polyvalence et une robustesse appréciées par les <br />
                          développeurs à travers le monde.
                          </p>

@@ -13,7 +13,7 @@ const App = () => {
                                         <FaGraduationCap className="text-yellow-500 text-5xl mt-1" />
                                         <p className='font-bold text-2xl text-[#001948]'>+3ans</p>
                                         </div>
-                                        <p className='text-[#001948]'>
+                                        <p className='text-[#001948] text-[14px]'>
                                         Depuis 3 ans, nous formons ceux qui décodent le futur, aux métiers <br />
                                         de l’informatique. Nous sommes un groupe d’experts, de <br /> 
                                         professionnels et des passionnés de l’informatique de Madagascar <br /> 
@@ -25,7 +25,7 @@ const App = () => {
                                         <FaUsers className="text-yellow-500 text-3xl mt-1" />
                                         <p className='font-bold text-2xl text-[#001948]'>+250 étudiants</p>
                                         </div>
-                                        <p className='text-[#001948]'>
+                                        <p className='text-[#001948] text-[14px]'>
                                         Plus de 250 étudiants et plus d’une dizaine d’entreprises ont <br /> 
                                         déjà fait confiance à notre formation habilitée par l’État <br /> 
                                         malgache. Avec eux tous, nous sommes fiers de pouvoir parler <br />
@@ -37,7 +37,7 @@ const App = () => {
                                         <FaMedal className="text-yellow-500 text-3xl mt-1" />
                                         <p className='font-bold text-2xl text-[#001948]'>Notre Mission</p>
                                         </div>
-                                        <p className='text-[#001948]'>
+                                        <p className='text-[#001948] text-[14px]'>
                                         Notre mission est d’amener des jeunes malgaches sur des <br /> 
                                         domaines porteurs comme l’intelligence artificielle, la <br /> 
                                         cybersécurité ou la programmation afin de favoriser leur <br />

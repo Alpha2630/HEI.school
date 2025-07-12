@@ -10,7 +10,7 @@ const Pedagogique = () => {
                                                   <img className='w-[30%] h-[100%]' src={Photos1} alt="" />
                                                   <div className='flex flex-col gap-10'>
                                                             <h1 className='text-4xl font-semibold text-[#001948]'>Le programme pédagogique</h1>
-                                                            <p className='text-[#001948]'>
+                                                            <p className='text-[#001948] text-[14px]'>
                                                                       Suivant le système LMD, jusqu’au Master, notre formation repose sur un <br />
                                                                       programme pédagogique conçu en adéquation avec les attentes du marché. La <br />
                                                                       formation est sanctionnée par  un diplôme de Licence et de Master en <br />
