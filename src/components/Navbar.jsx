@@ -3,7 +3,7 @@
     return(
         <nav class="bg-[#001948] h-20 flex items-center justify-around">
             <div class="logo">
-                <img src={Logo} alt="Logo HEI" class="h-12 cursor-pointer hover:opacity-90 transition-all" />
+                <img src={Logo} alt="Logo HEI" class="h-15 cursor-pointer hover:opacity-90 transition-all" />
             </div>
     
             <div class="flex gap-6 items-center">

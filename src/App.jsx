@@ -3,6 +3,9 @@ import Apropos from "./components/Apropos";
 import Navbar from "./components/Navbar";
 import Accueil from "./components/Accueil";
 import TeamCarousel from "./components/TeamCaroussel";
+import Pedagogique from "./components/Pedagogique";
+import Techno from "./components/Techno";
+import Partener from "./components/Partener";
 function App() {
   return (
     <div>
@@ -10,6 +13,9 @@ function App() {
       <Accueil />
       <Apropos />
       <TeamCarousel/>
+      <Pedagogique/>
+      <Techno/>
+      <Partener/>
      </div>
   );
 }

@@ -86,7 +86,7 @@ const TeamCarousel = () => {
   };
 
   return (
-    <div className="bg-[#6586C7] text-white py-12 px-4 text-center">
+    <div className="bg-[#6586C7] text-white py-12 px-4 text-center mt-11">
       <h2 className="text-3xl font-bold mb-4 font-serif">L'équipe pédagogique</h2>
       <p className="mb-8 max-w-3xl mx-auto">
       Notre équipe pédagogique se compose d’experts nationaux et internationaux de l’informatique,
