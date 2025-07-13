@@ -13,7 +13,7 @@
                     <div>
                       <div className="flex flex-col text-center mt-7 ">
                          <h1 className="text-[#001948] text-3xl font-bold">Nos partenaires</h1>
-                         <p className="text-[#001948]">L’employabilité de nos étudiants se base sur la pertinence  de notre programme pédagogique et de la composition de notre corps <br />
+                         <p className="text-[#001948] text-[14px]">L’employabilité de nos étudiants se base sur la pertinence  de notre programme pédagogique et de la composition de notre corps <br />
                          enseignant mais aussi du soutien et la collaboration des entreprises partenaires
                          </p>
                          <div className='flex items-center gap-15 text-center ml-96 mt-5'>
